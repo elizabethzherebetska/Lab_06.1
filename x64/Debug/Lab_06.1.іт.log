@@ -1,0 +1,15 @@
+﻿  Lab_06.1.іт.cpp
+C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(42,9): error C2601: 'count_even_possitive': local function definitions are illegal
+      C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(14,12):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(54,9): error C2601: 'sum_even_possitive': local function definitions are illegal
+      C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(14,12):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(67,10): error C2601: 'replace_element': local function definitions are illegal
+      C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(14,12):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\User\source\repos\Lab_06.1.іт\Lab_06.1.іт\Lab_06.1.іт.cpp(14,12): error C1075: '{': no matching token found
